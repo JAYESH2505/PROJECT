@@ -1,6 +1,1 @@
-Hi i am Jayesh
-
-This are my basic project.
-
-Thanks for VISITING.
-
+## These Are My Noobie Project When I Was Just Starting.
